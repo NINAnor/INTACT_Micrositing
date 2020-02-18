@@ -1,5 +1,7 @@
 # INTACT-Updraft-modelling
 
+This ESRI ArcGIS toolbox enables high-resolution updraft modelling for bird-friendly micro-siting of wind-turbines. The toolbox is spatially explicit,  utilize high resolution spatial data and remote sensing thermal imagery (Landsat 8), and is easy to implement cost-effectively in the pre-construction phase of a wind-farm development project.
+
 Orographic updraft is estimated from a digital elevation model and proxy wind direction and wind speed.
 
 Thermal updraft is estimated from LandSat 8 (band 3-4-10) and some proxy climate and atmospheric constants. The Landsat Thermal Remote Sensing ArcGIS algorithms for calculation of Land Surface Temperature (LST) developed by Wlawender et.al. 2012 are incorporated in the thermal updraft tool.
