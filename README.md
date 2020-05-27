@@ -6,6 +6,8 @@ Orographic updraft is estimated from a digital elevation model and proxy wind di
 
 Thermal updraft is estimated from LandSat 8 (band 3-4-10) and some proxy climate and atmospheric constants. The Landsat Thermal Remote Sensing ArcGIS algorithms for calculation of Land Surface Temperature (LST) developed by Wlawender et.al. 2012 are incorporated in the thermal updraft tool.
 
+All Landsat 8 imagery for the validation are available from USGS Earth Explorer (https://earthexplorer.usgs.gov/). The DTM10 for the validation is supplied as supplementary materials at NINAs geodata portal (https://geodata.nina.no/layers/geonode:dem10utm). All image acquisition dates, and atmospheric and climatic constants are listed in Table 1 in the submitted manuscript.
+
 Refererences:
 
 Marques, Ana T.; Santos, Carlos D.; Hanssen, Frank Ole; Muñoz, Antonio-Román; Onrubia, Alejandro; Wikelski, Martin; Moreira, Francisco; Palmeirim, Jorge Manuel; Silva, João P. Wind turbines cause functional habitat loss for migratory soaring birds. Journal of Animal Ecology 2019 s. 1-11
