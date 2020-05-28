@@ -6,7 +6,7 @@ Orographic updraft is estimated from a digital elevation model and proxy wind di
 
 Thermal updraft is estimated from LandSat 8 (band 3-4-10) and some proxy climate and atmospheric constants. The Landsat Thermal Remote Sensing ArcGIS algorithms for calculation of Land Surface Temperature (LST) developed by Wlawender et.al. 2012 are incorporated in the thermal updraft tool.
 
-All Landsat 8 imagery for the validation are available from USGS Earth Explorer (https://earthexplorer.usgs.gov/). The DTM10 for the validation is supplied as supplementary materials at NINAs geodata portal (https://geodata.nina.no/layers/geonode:dem10utm). All image acquisition dates, and atmospheric and climatic constants are listed in Table 1 in the submitted manuscript.
+All Landsat 8 imagery for the validation are available from USGS Earth Explorer (https://earthexplorer.usgs.gov/). The DTM10 for the validation is supplied as supplementary materials at NINAs geodata portal (https://geodata.nina.no/layers/geonode:dem10utm). All image acquisition dates, and atmospheric and climatic constants are listed in Table 1 in the submitted manuscript.The R scripts and data files to perform the white-tailed eagle validation are supplied as supplementary materials at the Mendeley Data repository (http://dx.doi.org/10.17632/pkbsnftv5h.1).
 
 Refererences:
 
