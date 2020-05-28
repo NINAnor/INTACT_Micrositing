@@ -10,8 +10,8 @@ All Landsat 8 imagery for the validation are available from USGS Earth Explorer 
 
 Refererences:
 
-Marques, Ana T.; Santos, Carlos D.; Hanssen, Frank Ole; Muñoz, Antonio-Román; Onrubia, Alejandro; Wikelski, Martin; Moreira, Francisco; Palmeirim, Jorge Manuel; Silva, João P. Wind turbines cause functional habitat loss for migratory soaring birds. Journal of Animal Ecology 2019 s. 1-11
+Marques, Ana T.; Santos, Carlos D.; Hanssen, Frank Ole; Muñoz, Antonio-Román; Onrubia, Alejandro; Wikelski, Martin; Moreira, Francisco; Palmeirim, Jorge Manuel; Silva, João P. Wind turbines cause functional habitat loss for migratory soaring birds. Journal of Animal Ecology 2019 s. 1-11. https://doi.org/10.1111/1365-2656.12961
 
-Santos, CD, Hanssen, F, Muñoz, A-R, Onrubia, A, Wikelski, M, May, R, Silva, JP (2017) Match between soaring modes of black kites and the fine-scale distribution of updrafts. Scientific Reports 7:6421. 
+Santos, CD, Hanssen, F, Muñoz, A-R, Onrubia, A, Wikelski, M, May, R, Silva, JP (2017) Match between soaring modes of black kites and the fine-scale distribution of updrafts. Scientific Reports 7:6421. https://doi.org/10.1038/s41598-017-05319-8
 
-Walawender, JP, Hajto, MJ, Iwaniuk, P (2012) A new ArcGIS toolset for automated mapping of land surface temperature with the use of LANDSAT satellite data, in: IEEE (Ed.), International Geoscience and Remote Sensing Symposium (IGARSS). Institute of Electrical and Electronics Engineers (IEEE), Munich, Germany, pp. 4371-4374
+Walawender, JP, Hajto, MJ, Iwaniuk, P (2012) A new ArcGIS toolset for automated mapping of land surface temperature with the use of LANDSAT satellite data, in: IEEE (Ed.), International Geoscience and Remote Sensing Symposium (IGARSS). Institute of Electrical and Electronics Engineers (IEEE), Munich, Germany, pp. 4371-4374. DOI: 10.1109/IGARSS.2012.6350405 
