@@ -10,6 +10,8 @@ All Landsat 8 imagery for the validation are available from USGS Earth Explorer 
 
 Refererences:
 
+Hanssen, F., May, RR. and Nygård, T. (2020). High-Resolution Modeling of Uplift Landscapes can Inform Micrositing of Wind Turbines for Soaring Raptors. Journal of Environmental Management, http://dx.doi.org/10.1007/s00267-020-01318-0. 
+
 Marques, Ana T.; Santos, Carlos D.; Hanssen, Frank Ole; Muñoz, Antonio-Román; Onrubia, Alejandro; Wikelski, Martin; Moreira, Francisco; Palmeirim, Jorge Manuel; Silva, João P. Wind turbines cause functional habitat loss for migratory soaring birds. Journal of Animal Ecology 2019 s. 1-11. https://doi.org/10.1111/1365-2656.12961
 
 Santos, CD, Hanssen, F, Muñoz, A-R, Onrubia, A, Wikelski, M, May, R, Silva, JP (2017) Match between soaring modes of black kites and the fine-scale distribution of updrafts. Scientific Reports 7:6421. https://doi.org/10.1038/s41598-017-05319-8
